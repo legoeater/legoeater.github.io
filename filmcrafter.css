@@ -5,12 +5,10 @@ body {
 h1 {
 	text-decoration: underline;
 	text-transform: uppercase;
+	margin: 20px;
+	padding: 20px;
 }
 
 h2 {
-    border-style: dashed;
-    border-width: 3px;
-    border-left-width: 10px;
-    border-right-width: 10px;
-    border-color: red;
+    
 }
