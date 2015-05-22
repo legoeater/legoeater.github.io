@@ -11,5 +11,7 @@ h1 {
 }
 
 h2 {
-    
+	background-color: rgb(218, 218, 55);
+	margin: 20px;
+	padding: 20px;
 }
