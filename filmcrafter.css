@@ -8,14 +8,27 @@ h1 {
 	background-color: rgb(218, 218, 55);
 	margin: 20px;
 	padding: 20px;
+	font-family: 'Press Start 2P', cursive;
 }
 
 h2 {
 	background-color: rgb(218, 218, 55);
 	margin: 20px;
 	padding: 20px;
+	font-family: 'VT323';
 }
 
 p {
-	
+	color: orange;
+	font-size: 20px;
+}
+
+ul {
+	color: orange;
+	font-size: 20px;
+}
+
+#navBar {
+	color: orange;
+	font-size: 20px;
 }
