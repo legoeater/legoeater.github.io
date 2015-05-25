@@ -28,7 +28,33 @@ ul {
 	font-size: 20px;
 }
 
-#navBar {
+nav ul li {
+	display: inline;
+}
+
+nav ul {
+	padding-left: 0;
+	margin-left: 0;
+	background-color: #320138;
 	color: orange;
-	font-size: 20px;
+	float: left;
+	width: 100%;
+	margin-top: 0;
+	padding-top: 0;
+	margin-left: 0;
+	padding-left: 0;
+}
+
+nav ul li a {
+	padding: 0.2em 1em;
+	background-color: #320138;
+	color: orange;
+	text-decoration: none;
+	float: left;
+	border-right: 1px solid #fff;
+}
+
+nav ul li a:hover {
+	background-color: #68266F;
+	color: #fff;
 }
